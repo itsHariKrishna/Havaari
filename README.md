@@ -1,15 +1,15 @@
-# Expo Router Example
+# HAVĀRI
+#### 🚌HAVĀRI is a React Native project for a mobile app that allows users to note down bus timings.
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+#### 📱Features
+- Users can add new bus timings to the list
+- Users can edit or delete existing bus timings
+- Users can view the list of all saved bus timings
 
-## 🚀 How to use
+#### 🛠 Technologies Used
+- React Native
+- Expo
+- React Router
 
-```sh
-npx create-react-native-app -t with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
+#### 📝 License
+This project is MIT licensed.
